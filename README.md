@@ -1,6 +1,6 @@
 # s7a73farmsPartyBadge
 
-![s7a73farmsPartyBadge](https://raw.githubusercontent.com/s7a73farm_Party_Badge_DC26/images/Render1.PNG)
+![s7a73farmsPartyBadge](https://raw.githubusercontent.com/s7a73farm/s7a73farm_Party_Badge_DC26/images/Render1.PNG)
 
 # Getting Started to program it
 ```
