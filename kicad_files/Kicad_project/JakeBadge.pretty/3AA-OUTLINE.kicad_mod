@@ -1,0 +1,12 @@
+(module 3AA-OUTLINE (layer F.Cu) (tedit 5AD83152)
+  (fp_text reference REF** (at -0.54 30.28) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 3AA-OUTLINE (at 7.8 30.18) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -23.495 -28.575) (end -23.495 28.575) (layer F.SilkS) (width 0.15))
+  (fp_line (start 23.495 28.575) (end -23.495 28.575) (layer F.SilkS) (width 0.15))
+  (fp_line (start 23.495 -28.575) (end 23.495 28.575) (layer F.SilkS) (width 0.15))
+  (fp_line (start -23.495 -28.575) (end 23.495 -28.575) (layer F.SilkS) (width 0.15))
+)
